@@ -3,8 +3,9 @@
     flex-direction: row;
     justify-content: center;
 }
-.summary,
+
 .role{
+    flex: 1 0 250px;
     background-color: antiquewhite;
     color: black;
     margin: 5px;
@@ -18,12 +19,15 @@
 }
 
 .skills{
+    
     background-color: antiquewhite;
     color: black;
     margin:  5px;
     height: 50vh;
 }
+.summary,
 .WE{
+    flex: 1 1 250px;
     background-color: antiquewhite;
     color: black;
     margin:  5px;
