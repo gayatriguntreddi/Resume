@@ -27,7 +27,7 @@
 }
 .summary,
 .WE{
-    flex: 1 1 250px;
+    flex: 1 0 250px;
     background-color: antiquewhite;
     color: black;
     margin:  5px;
