@@ -5,7 +5,7 @@
 }
 
 .role{
-    flex: 1 0 250px;
+    flex: 1 1 250px;
     background-color: antiquewhite;
     color: black;
     margin: 5px;
@@ -27,11 +27,20 @@
 }
 .summary,
 .WE{
-    flex: 1 0 250px;
+    flex: 1 1 250px;
     background-color: antiquewhite;
     color: black;
     margin:  5px;
     height: 35vh;
+}
+
+
+
+.F1
+{
+    background-color: antiquewhite;
+    color: black; 
+    justify-content: space-between;
 }
 
 h1{
@@ -47,3 +56,4 @@ h2{
         color: rgb(226, 162, 43);
         align-content: center;
         }
+
